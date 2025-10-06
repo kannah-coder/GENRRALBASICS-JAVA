@@ -1,0 +1,18 @@
+
+ 
+
+```gitignore
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
