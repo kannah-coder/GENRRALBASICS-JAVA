@@ -1,3 +1,43 @@
+
+ 
+---
+
+## 🧩 1️⃣ DataTypes.java
+
+**Concepts covered:**
+- Primitive Data Types: `byte`, `short`, `int`, `long`, `float`, `double`, `char`, `boolean`
+- Non-Primitive Types: `String`, `Array`, `Wrapper classes`
+
+ 
+---
+
+## 🧩 2️⃣ TypeCasting.java
+
+**Concepts covered:**
+- Widening Casting (automatic)
+- Narrowing Casting (manual)
+- Char ↔ Int conversion
+- Float → Int
+- Wrapper class (Autoboxing / Unboxing)
+- String ↔ Int conversion
+
+ 
+ Java-Basics/
+│
+├── 📁 DataTypes/
+│   ├── DataTypes.java
+│   └── README.md        # explains what DataTypes.java covers
+│
+├── 📁 TypeCasting/
+│   ├── TypeCasting.java
+│   └── README.md        # explains what TypeCasting.java cover
+│
+├── .gitignore
+└── README.md            
+
+
+
+ 
  # Operators-Java
 
 This project demonstrates the use of different **operators in Java** using simple, clear examples.  
