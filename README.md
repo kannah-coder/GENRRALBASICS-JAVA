@@ -79,3 +79,5 @@ Java-Basics/
 │
 ├── .gitignore
 └── README.md
+
+I produced one file named OperatorsAndDataTypesDemo.java which contains all of this stuff with clear understanding... 
