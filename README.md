@@ -81,3 +81,9 @@ Java-Basics/
 └── README.md
 
 I produced one file named OperatorsAndDataTypesDemo.java which contains all of this stuff with clear understanding... 
+
+## DataTypesAdvanced.java
+This program demonstrates Java basics in one file — covering datatypes, type casting, loops, conditionals, and user input.  
+It takes user details, performs logical and bitwise operations, and showcases conversions between data types.  
+Perfect for practicing Java fundamentals in a single, advanced example.
+
